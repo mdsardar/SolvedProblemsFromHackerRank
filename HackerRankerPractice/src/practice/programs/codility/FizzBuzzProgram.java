@@ -1,9 +1,11 @@
 package practice.programs.codility;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class FizzBuzzProgram {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		fizzBuzz(15);
 	}
 
@@ -21,5 +23,4 @@ public class FizzBuzzProgram {
 				System.out.println(count);
 		}
 	}
-
 }
